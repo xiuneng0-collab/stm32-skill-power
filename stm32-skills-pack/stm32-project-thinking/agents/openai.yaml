@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 Project Thinking"
+  short_description: "Structured guidance for basic STM32 debugging and bring-up"
+  default_prompt: "Use this skill to handle STM32 project analysis, debugging, board adaptation, bring-up, migration, pin checks, and root-cause isolation with a simple, layered, evidence-first approach."

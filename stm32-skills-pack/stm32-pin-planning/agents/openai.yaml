@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 Pin Planning"
+  short_description: "Pin mapping, mux truth, and conflict checks for STM32 boards"
+  default_prompt: "Use this skill to verify STM32 pin usage, alternate-function mapping, generated configuration versus real source code, board-level conflicts, and the actual source-of-truth pin assignment for each peripheral."

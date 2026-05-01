@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 Migration"
+  short_description: "Structured porting between STM32 boards and codebases"
+  default_prompt: "Use this skill to migrate an STM32 firmware project to another board or project skeleton while preserving validated behavior, separating invariants from adaptation layers, and avoiding unnecessary redesign."

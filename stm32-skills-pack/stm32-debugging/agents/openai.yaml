@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 Debugging"
+  short_description: "Focused fault isolation for STM32 startup and peripheral issues"
+  default_prompt: "Use this skill to debug STM32 startup failures, hangs, deadlocks, interrupt or DMA issues, peripheral non-response, bad readings, and runtime stalls with a layered, evidence-first, minimal-change approach."

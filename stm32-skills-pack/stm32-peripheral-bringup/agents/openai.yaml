@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 Peripheral Bring-Up"
+  short_description: "Ordered bring-up guidance for one STM32 peripheral at a time"
+  default_prompt: "Use this skill to bring up or debug one basic STM32 peripheral such as UART, SPI, I2C, ADC, PWM, timer, GPIO, or simple DMA using a smallest-path-first validation sequence."
